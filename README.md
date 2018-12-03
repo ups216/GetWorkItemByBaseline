@@ -14,4 +14,4 @@
 
 运行效果如下
 
-![](GetWorkItemByLable.png)
+![](GetWorkItemByLabel.png)
