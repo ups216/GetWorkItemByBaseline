@@ -15,3 +15,7 @@
 运行效果如下
 
 ![](GetWorkItemByLabel.png)
+
+基线(Label)和变更集(changeset)以及工作项关系如下
+
+![](GetWorkItemByLabel01.png)
