@@ -1,10 +1,17 @@
-# Ê¾Àı´úÂë£ºÍ¨¹ı´úÂë»ùÏß»ñÈ¡Ëù°üº¬µÄĞèÇóÁĞ±í
+# ç¤ºä¾‹ä»£ç ï¼šé€šè¿‡ä»£ç åŸºçº¿è·å–æ‰€åŒ…å«çš„éœ€æ±‚åˆ—è¡¨
 
-±¾Ê¾Àı´úÂëÊ¹ÓÃAzure DevOps Rest APIÍ¨¹ı»ùÏß£¨tfsvc label£©»ñÈ¡µ±Ç°labelËù°üº¬µÄËùÓĞ±ä¸ü¼¯ÉÏ¹ØÁª¹ıµÄ¹¤×÷ÏîÁĞ±í¡£
+æœ¬ç¤ºä¾‹ä»£ç ä½¿ç”¨Azure DevOps Rest APIé€šè¿‡åŸºçº¿ï¼ˆtfsvc labelï¼‰è·å–å½“å‰labelæ‰€åŒ…å«çš„æ‰€æœ‰å˜æ›´é›†ä¸Šå…³è”è¿‡çš„å·¥ä½œé¡¹åˆ—è¡¨ã€‚
 
-## ²Î¿¼Á´½Ó
+## å‚è€ƒé“¾æ¥
 
 * [Azure DevOps Rest API](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-4.1)
-* [APIºÍTFS°æ±¾Ó³Éä±í](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-4.1#api-and-tfs-version-mapping)
+* [APIå’ŒTFSç‰ˆæœ¬æ˜ å°„è¡¨](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-4.1#api-and-tfs-version-mapping)
 * [Rest API nuget Package](https://docs.microsoft.com/en-us/azure/devops/integrate/concepts/dotnet-client-libraries?view=vsts)
 
+## è¿è¡Œæ–¹å¼
+
+åœ¨ä»£ç ä¸­å¡«å†™ TFS URL å’Œ PAT ç›´æ¥è¿è¡Œæ¥å£
+
+è¿è¡Œæ•ˆæœå¦‚ä¸‹
+
+![](GetWorkItemByLable.png)
