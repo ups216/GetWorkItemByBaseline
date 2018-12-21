@@ -14,8 +14,19 @@
 
 运行效果如下
 
+### 1. TFVC 从Label获取ChangeSet并找到相关工作项
+
 ![](GetWorkItemByLabel.png)
 
 基线(Label)和变更集(changeset)以及工作项关系如下
 
 ![](GetWorkItemByLabel01.png)
+
+### 2. Git 从2个Tags之间的差异的commit找到相关的工作项
+
+![](GetWorkItemByTagsCommits.png)
+
+### 3. Git 从2个Tags之间的差异的pull request找到相关的工作项
+
+![](GetWorkItemByTagsPullRequests.png)
+
